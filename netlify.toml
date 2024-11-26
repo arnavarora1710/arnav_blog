@@ -67,8 +67,8 @@ GRAPH_OPTIONS = """
         	interaction: {
         		hover: true,
         	},
-        	height: "120%",
-        	width: "120%",
+        	height: "80%",
+        	width: "80%",
         	physics: {
         		solver: "repulsion",
         	},
