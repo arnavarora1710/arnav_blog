@@ -2,8 +2,8 @@ Welcome to my blog! I'm Arnav Arora, a junior at Purdue double majoring in Compu
 
 1. **Interesting CS/Math Problems**: Exploring challenging problems with solutions
 
-2. **Books I Read**: Highlights from impactful math books, with the occasional CS read.
+2. **[Books I Read](./Books%20I%20Read/What's%20Here?.md)**: Highlights from impactful math books, with the occasional CS read.
 
-3. **Competitive Programming**: Data structures/algorithms knowledge I pick up from competitive programming
+3. **[Competitive Programming](./Competitive%20Programming/What's%20Here?.md)**: Data structures/algorithms knowledge I pick up from competitive programming
 
-4. **Machine Learning Tricks**: notes/insights/techniques from my personal/university projects
+4. **[Machine Learning](./ML%20Stuff/What's%20Here?.md)**: notes/insights/techniques from my personal/university projects
