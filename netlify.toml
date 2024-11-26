@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "CLICK FOR 🤑"
+LANDING_BUTTON = "Go To Blog"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Zettelkasten"
+LANDING_DESCRIPTION = "Hey! I'm Arnav, a junior in CS and Math at Purdue University. Trying to document interesting math/cs stuff in this vault 👀"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Too much info!!!"
+LANDING_TITLE = "My Zettelkasten"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/arnavarora1710/arnav_blog"
@@ -67,8 +67,8 @@ GRAPH_OPTIONS = """
         	interaction: {
         		hover: true,
         	},
-        	height: "100%",
-        	width: "100%",
+        	height: "70%",
+        	width: "70%",
         	physics: {
         		solver: "repulsion",
         	},
