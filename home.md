@@ -1,0 +1,9 @@
+Welcome to my blog! I'm Arnav Arora, a junior at Purdue double majoring in Computer Science and Mathematics. Here, I'll talk about all the things that fascinate me focussing on:
+
+1. **Interesting CS/Math Problems**: Exploring challenging problems with solutions
+
+2. **Books I Read**: Highlights from impactful math books, with the occasional CS read.
+
+3. **Competitive Programming**: Data structures/algorithms knowledge I pick up from competitive programming
+
+4. **Machine Learning Tricks**: notes/insights/techniques from my personal/university projects
