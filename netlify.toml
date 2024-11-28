@@ -76,7 +76,7 @@ GRAPH_OPTIONS = """
         	width: "100%",
         	physics: {
 			hierarchicalRepulsion: {
-				avoidOverlap: 0.5,
+				avoidOverlap: 0.7,
 			},
         		solver: "hierarchicalRepulsion",
         	},
