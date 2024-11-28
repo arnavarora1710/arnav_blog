@@ -2,4 +2,5 @@ This folder is for miscellaneous stuff I cannot find a folder categorization for
 
 1. Notes for current ongoing projects
 2. Notes for college courses
-3. Productivity Stuff
+3. Notes from things I'm learning that don't fall into any of the other categories
+4. Productivity Stuff
