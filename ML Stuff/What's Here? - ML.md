@@ -1,1 +1,1 @@
-I'll be adding notes on interesting things in machine learning and latest developments/research in ML including stuff but not limited to LLMs, ML compilers, formal verification etc. (I will be referring to everything that makes me think AGI will take over as ML, sorry!)
+I&rsquo;ll be adding notes on interesting things in ML systems and latest developments/research in ML including stuff but not limited to LLMs, ML compilers, formal verification etc.

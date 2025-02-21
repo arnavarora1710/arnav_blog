@@ -1,5 +1,8 @@
+#+title: What's Here - CP
+#+OPTIONS: toc:nil
+
 I do a lot of competitive programming on a lot of OJs. This folder will be for algorithms and complicated data structures I discover and find interesting.
 
-Here&rsquo;s my [Codeforces profile](https://codeforces.com/profile/iond):
+Here's my [[https://codeforces.com/profile/iond][Codeforces profile]]:
 
-![[cf_profile.png]]
+[[./cf_profile.png]]

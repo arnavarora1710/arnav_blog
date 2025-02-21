@@ -1,4 +1,0 @@
-# [[Kernels]]
-
-# [[Thread Hierarchy]]
-
