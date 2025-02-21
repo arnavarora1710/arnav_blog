@@ -1,2 +1,0 @@
-#+title: Hensel's Lemma
-#+OPTIONS: toc:nil
