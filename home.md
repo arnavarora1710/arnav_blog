@@ -2,7 +2,7 @@ Welcome to my blog! I'm Arnav Arora, a junior at Purdue double majoring in Compu
 
 1. **[Interesting CS/Math Problems](./Interesting%20Stuff%20IDK/What's%20Here?%20-%20Miscellaneous.md)**: Exploring challenging problems with solutions
 
-2. **[Books I Read](./Books%20I%20Read/What's%20Here?%20-%20Books.md)**: Highlights from impactful math books, with the occasional CS read.
+2. **[Books I Read](./Books%20I%20Read/What's%20Here?%20-%20Books.md)**: Highlights from impactful math books, with the occasional CS read
 
 3. **[Competitive Programming](./Competitive%20Programming/What's%20Here?%20-%20CP.md)**: Data structures/algorithms knowledge I pick up from competitive programming
 
